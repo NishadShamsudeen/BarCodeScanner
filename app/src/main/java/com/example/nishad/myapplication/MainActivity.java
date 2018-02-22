@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements BarcodeReader.Bar
     @Override
     public void onScanned(Barcode barcode) {
 
+
     }
 
     @Override
